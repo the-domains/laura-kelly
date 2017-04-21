@@ -72,7 +72,7 @@ content:
       The simplest approach to avoid this problem is to continue to use the
       Facebook app but not use the in-app browser.
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: ''
+description: laurakelly.com.au
 purpose:
   - type: contact
     url: 'mailto:laura@laurakelly.com.au'
