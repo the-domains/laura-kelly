@@ -25,10 +25,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: CV
-    id: fe4355ff-c56e-46ae-baf3-e745e46a394a
-    type: content
 title: Laura Kelly
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
