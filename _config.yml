@@ -19,7 +19,49 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: article
+    html: >-
+      <article><h1>No Cookies | The Mercury</h1><p>There is a specific issue
+      with the Facebook in-app browser intermittently making requests to
+      websites without cookies that had previously been set. This appears to be
+      a defect in the browser which should be addressed soon. The simplest
+      approach to avoid this problem is to continue to use the Facebook app but
+      not use the in-app browser.</p></article>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'http://www.themercury.com.au'
+        name: Themercury
+        favicon: >-
+          https://secure.gravatar.com/blavatar/a2dca69b3a848c77a9d7ffa55925f70b?s=32
+        domain: www.themercury.com.au
+      keywords: []
+      description: >-
+        There is a specific issue with the Facebook in-app browser
+        intermittently making requests to websites without cookies that had
+        previously been set. This appears to be a defect in the browser which
+        should be addressed soon. The simplest approach to avoid this problem is
+        to continue to use the Facebook app but not use the in-app browser.
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: >-
+        http://www.themercury.com.au/lifestyle/environment-tasmania-calls-on-wwf-to-cut-ties-with-salmon-farming-giant-tassal/news-story/87220c553bfe3107c3f2a5d76f7a288d
+      title: No Cookies | The Mercury
+      datePublished: null
+    title: No Cookies | The Mercury
+    caption: >-
+      There is a specific issue with the Facebook in-app browser intermittently
+      making requests to websites without cookies that had previously been set.
+      This appears to be a defect in the browser which should be addressed soon.
+      The simplest approach to avoid this problem is to continue to use the
+      Facebook app but not use the in-app browser.
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: Laura Kelly
 description: ''
 github: true
