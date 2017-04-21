@@ -64,7 +64,6 @@ content:
         putting on a comfortingly warm pair of alpaca socks made of premium
         alpaca wool. You can feel like you are relaxing on a tranquil alpaca
         farm listening to their soothing sounds as you knit with alpaca yarn.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=dy_JEytfspU&feature=applinks'
@@ -110,7 +109,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: laurakelly.com.au
+description: ''
 purpose:
   - type: contact
     url: 'mailto:laura@laurakelly.com.au'
