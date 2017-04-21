@@ -28,3 +28,7 @@ author:
   name: Laura Kelly
   email: laura@laurakelly.com.au
   url: 'https://laurakelly.com.au'
+purpose:
+  - type: contact
+    url: 'mailto:laura@laurakelly.com.au'
+    label: Contact me
