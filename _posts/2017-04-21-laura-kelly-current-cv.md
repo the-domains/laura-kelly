@@ -8,8 +8,8 @@ keywords: []
 description: ''
 app_links: []
 title: CV
-datePublished: '2017-04-21T04:17:55.102Z'
-dateModified: '2017-04-21T04:17:53.091Z'
+datePublished: '2017-04-21T04:23:55.255Z'
+dateModified: '2017-04-21T04:23:52.029Z'
 via: {}
 inFeed: false
 sourcePath: _posts/2017-04-21-laura-kelly-current-cv.md
