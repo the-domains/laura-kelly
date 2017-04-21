@@ -1,12 +1,3 @@
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
-name: Laura Kelly
-layout_spectrum: 0.845481536583975
 typography_spectrum: 0.11556685832329094
 color:
   brandStrength: 0.6858366846572608
@@ -19,6 +10,26 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
+github: true
+layout_spectrum: 0.845481536583975
+author:
+  name: Laura Kelly
+  email: laura@laurakelly.com.au
+  url: 'https://laurakelly.com.au'
+name: Laura Kelly
+url: 'https://laurakelly.com.au'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: CV
+    id: fe4355ff-c56e-46ae-baf3-e745e46a394a
+    type: content
+title: Laura Kelly
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: article
@@ -31,29 +42,28 @@ content:
       not use the in-app browser.</p></article>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author: []
+      datePublished: null
+      isBasedOnUrl: >-
+        http://www.themercury.com.au/lifestyle/environment-tasmania-calls-on-wwf-to-cut-ties-with-salmon-farming-giant-tassal/news-story/87220c553bfe3107c3f2a5d76f7a288d
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      title: No Cookies | The Mercury
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'http://www.themercury.com.au'
         name: Themercury
         favicon: >-
           https://secure.gravatar.com/blavatar/a2dca69b3a848c77a9d7ffa55925f70b?s=32
         domain: www.themercury.com.au
-      keywords: []
       description: >-
         There is a specific issue with the Facebook in-app browser
         intermittently making requests to websites without cookies that had
         previously been set. This appears to be a defect in the browser which
         should be addressed soon. The simplest approach to avoid this problem is
         to continue to use the Facebook app but not use the in-app browser.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: >-
-        http://www.themercury.com.au/lifestyle/environment-tasmania-calls-on-wwf-to-cut-ties-with-salmon-farming-giant-tassal/news-story/87220c553bfe3107c3f2a5d76f7a288d
-      title: No Cookies | The Mercury
-      datePublished: null
     title: No Cookies | The Mercury
     caption: >-
       There is a specific issue with the Facebook in-app browser intermittently
@@ -62,14 +72,7 @@ content:
       The simplest approach to avoid this problem is to continue to use the
       Facebook app but not use the in-app browser.
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: Laura Kelly
 description: ''
-github: true
-url: 'https://laurakelly.com.au'
-author:
-  name: Laura Kelly
-  email: laura@laurakelly.com.au
-  url: 'https://laurakelly.com.au'
 purpose:
   - type: contact
     url: 'mailto:laura@laurakelly.com.au'
