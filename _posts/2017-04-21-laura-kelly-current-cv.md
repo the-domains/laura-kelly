@@ -8,8 +8,8 @@ app_links: []
 isBasedOnUrl: >-
   https://docs.google.com/document/d/1uR1JK3uryCuLqgod-Es4tt6sD0KxeQdoZSprNp4mmPw/pub
 title: Laura Kelly CV
-datePublished: '2017-04-21T01:39:08.120Z'
-dateModified: '2017-04-21T01:39:05.807Z'
+datePublished: '2017-04-21T01:43:24.395Z'
+dateModified: '2017-04-21T01:43:22.306Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-04-21-laura-kelly-current-cv.md
