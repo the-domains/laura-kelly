@@ -72,7 +72,7 @@ description: laurakelly.com.au
 purpose:
   - type: contact
     url: 'mailto:laura@laurakelly.com.au'
-    label: Email me
+    label: Email
   - type: contact
     url: 'tel:0401559335'
     label: Call
