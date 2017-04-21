@@ -77,3 +77,5 @@ purpose:
   - type: contact
     url: 'mailto:laura@laurakelly.com.au'
     label: Contact me
+analytics:
+  google: UA-70092553-1
