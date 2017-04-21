@@ -15,13 +15,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.google.com.au/search?hl=en&gl=au&tbm=nws&authuser=0&q=%22Laura+Kelly%22+Tasmania
 title: '"Laura Kelly" Tasmania - Google Search'
-datePublished: '2017-04-21T02:54:40.985Z'
-dateModified: '2017-04-21T02:52:36.666Z'
-datePublishedOriginal: '2017-04-21T02:54:40.985Z'
+datePublished: '2017-04-21T02:55:20.729Z'
+dateModified: '2017-04-21T02:55:20.401Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-04-21-laura-kelly-tasmania-google-search.md
+starred: false
+datePublishedOriginal: '2017-04-21T02:54:40.985Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
