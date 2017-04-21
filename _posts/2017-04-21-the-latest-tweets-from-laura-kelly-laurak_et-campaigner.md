@@ -1,9 +1,11 @@
 ---
 author: []
 related: []
-publisher: {}
+publisher:
+  url: 'https://twitter.com/LauraK_ET'
+  name: Twitter
 keywords: []
-description: ''
+description: Laura Kelly on Twitter
 app_links:
   - path: >-
       twitter/user?screen_name=LauraK_ET&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Eprofile
@@ -11,8 +13,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/LauraK_ET'
-datePublished: '2017-04-21T02:37:53.071Z'
-dateModified: '2017-04-21T02:37:50.874Z'
+datePublished: '2017-04-21T02:38:59.461Z'
+dateModified: '2017-04-21T02:38:57.162Z'
 title: ''
 via: {}
 inFeed: true
@@ -23,3 +25,4 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
+> Laura Kelly on Twitter
