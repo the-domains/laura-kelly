@@ -7,16 +7,16 @@ publisher:
 keywords: []
 description: ''
 app_links: []
-isBasedOnUrl: >-
-  https://docs.google.com/document/d/1uR1JK3uryCuLqgod-Es4tt6sD0KxeQdoZSprNp4mmPw/pub
 title: Laura Kelly CV
-datePublished: '2017-04-21T01:48:54.407Z'
-dateModified: '2017-04-21T01:48:52.092Z'
+datePublished: '2017-04-21T01:49:30.729Z'
+dateModified: '2017-04-21T01:49:28.750Z'
 via: {}
-inFeed: true
+inFeed: false
 sourcePath: _posts/2017-04-21-laura-kelly-current-cv.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-21T01:48:54.407Z'
+url: laura-kelly-cv/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
