@@ -1,17 +1,17 @@
-typography_spectrum: 0.11556685832329094
+layout_spectrum: 0.649870507858122
+typography_spectrum: 0.601800551464191
 color:
-  brandStrength: 0.6858366846572608
-  lightness: 0.3940337267704308
-  saturation: 0.50828687264584
-  rhythmicContrast: 0.4963752890471369
+  brandStrength: 0.9995699033423299
+  lightness: 0.21611337649377782
+  saturation: 0.6206910430654736
+  rhythmicContrast: 0.5471698958676604
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 github: true
-layout_spectrum: 0.845481536583975
 author:
   name: Laura Kelly
   email: laura@laurakelly.com.au
