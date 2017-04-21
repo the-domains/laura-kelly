@@ -1,0 +1,30 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Laura Kelly
+layout_spectrum: 0.845481536583975
+typography_spectrum: 0.11556685832329094
+color:
+  brandStrength: 0.6858366846572608
+  lightness: 0.3940337267704308
+  saturation: 0.50828687264584
+  rhythmicContrast: 0.4963752890471369
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+content: []
+title: Laura Kelly
+description: ''
+github: true
+url: 'https://laurakelly.com.au'
+author:
+  name: Laura Kelly
+  email: laura@laurakelly.com.au
+  url: 'https://laurakelly.com.au'
