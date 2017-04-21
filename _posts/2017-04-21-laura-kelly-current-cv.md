@@ -1,17 +1,17 @@
 ---
 author: []
 related: []
-publisher:
-  name: Google Docs
-  url: >-
-    https://docs.google.com/document/d/1uR1JK3uryCuLqgod-Es4tt6sD0KxeQdoZSprNp4mmPw/pub
+publisher: {}
 keywords: []
 description: ''
 app_links: []
 title: CV
-datePublished: '2017-04-21T01:49:55.157Z'
-dateModified: '2017-04-21T01:49:53.065Z'
-via: {}
+datePublished: '2017-04-21T01:51:14.458Z'
+dateModified: '2017-04-21T01:51:12.163Z'
+via:
+  name: Google Docs
+  url: >-
+    https://docs.google.com/document/d/1uR1JK3uryCuLqgod-Es4tt6sD0KxeQdoZSprNp4mmPw/pub
 inFeed: false
 sourcePath: _posts/2017-04-21-laura-kelly-current-cv.md
 hasPage: true
