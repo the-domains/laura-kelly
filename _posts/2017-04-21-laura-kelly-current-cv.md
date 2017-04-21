@@ -6,12 +6,12 @@ keywords: []
 description: ''
 app_links: []
 title: CV
-datePublished: '2017-04-21T02:39:50.950Z'
-dateModified: '2017-04-21T02:39:48.798Z'
+datePublished: '2017-04-21T03:45:04.910Z'
+dateModified: '2017-04-21T03:45:02.748Z'
 via:
   name: Google Docs
   url: >-
-    https://docs.google.com/document/d/1uR1JK3uryCuLqgod-Es4tt6sD0KxeQdoZSprNp4mmPw/pub
+    https://docs.google.com/document/d/1uR1JK3uryCuLqgod-Es4tt6sD0KxeQdoZSprNp4mmPw/edit?usp=sharing
 inFeed: true
 sourcePath: _posts/2017-04-21-laura-kelly-current-cv.md
 hasPage: true
