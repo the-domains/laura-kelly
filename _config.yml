@@ -15,9 +15,9 @@ layout_spectrum: 0.845481536583975
 author:
   name: Laura Kelly
   email: laura@laurakelly.com.au
-  url: 'https://laurakelly.com.au'
+  url: 'http://laurakelly.com.au'
 name: Laura Kelly
-url: 'https://laurakelly.com.au'
+url: 'http://laurakelly.com.au/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
