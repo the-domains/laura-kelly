@@ -1,4 +1,3 @@
-layout_spectrum: 0.2309020403359491
 typography_spectrum: 0.6018858649666504
 color:
   brandStrength: 0.8173941639546158
@@ -12,6 +11,9 @@ color:
     - '#4D4D4D'
     - '#333333'
 github: true
+layout_spectrum: 0.2309020403359491
+analytics:
+  google: UA-70092553-1
 author:
   name: Laura Kelly
   email: laura@laurakelly.com.au
@@ -25,6 +27,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: CV
+    id: fe4355ff-c56e-46ae-baf3-e745e46a394a
+    type: content
 title: Laura Kelly
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -36,16 +42,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: Chad Mercree
-          url: 'https://www.youtube.com/channel/UCgjkERuhWDkiZYuumgY-7KA'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/dy_JEytfspU?t=20s'
       keywords:
         - alpaca
         - alpaca ranch
@@ -58,12 +56,13 @@ content:
         - alpaca images
         - alpaca noise
         - what does a...
-      description: >-
-        Enjoy this relaxing video meditation with the sounds of nature and
-        gentle suri alpacas whose spirit animal totem essence is love. It's like
-        putting on a comfortingly warm pair of alpaca socks made of premium
-        alpaca wool. You can feel like you are relaxing on a tranquil alpaca
-        farm listening to their soothing sounds as you knit with alpaca yarn.
+      related: []
+      author:
+        - name: Chad Mercree
+          url: 'https://www.youtube.com/channel/UCgjkERuhWDkiZYuumgY-7KA'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Alpaca Humming
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=dy_JEytfspU&feature=applinks'
@@ -102,10 +101,17 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/dy_JEytfspU?t=20s'
-      title: Alpaca Humming
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      description: >-
+        Enjoy this relaxing video meditation with the sounds of nature and
+        gentle suri alpacas whose spirit animal totem essence is love. It's like
+        putting on a comfortingly warm pair of alpaca socks made of premium
+        alpaca wool. You can feel like you are relaxing on a tranquil alpaca
+        farm listening to their soothing sounds as you knit with alpaca yarn.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -117,5 +123,3 @@ purpose:
   - type: contact
     url: 'tel:0401559335'
     label: Call
-analytics:
-  google: UA-70092553-1
