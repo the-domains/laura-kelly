@@ -3,13 +3,14 @@ author: []
 related: []
 publisher:
   name: Google Docs
-  url: 'https://docs.google.com'
+  url: >-
+    https://docs.google.com/document/d/1uR1JK3uryCuLqgod-Es4tt6sD0KxeQdoZSprNp4mmPw/pub
 keywords: []
 description: ''
 app_links: []
-title: Laura Kelly CV
-datePublished: '2017-04-21T01:49:30.729Z'
-dateModified: '2017-04-21T01:49:28.750Z'
+title: CV
+datePublished: '2017-04-21T01:49:55.157Z'
+dateModified: '2017-04-21T01:49:53.065Z'
 via: {}
 inFeed: false
 sourcePath: _posts/2017-04-21-laura-kelly-current-cv.md
