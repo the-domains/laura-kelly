@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Laura Kelly]]></title>
+        <description><![CDATA[Laura Kelly]]></description>
+        <link>http://laurakelly.com.au/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 21 Apr 2017 01:33:50 GMT</lastBuildDate>
+        <atom:link href="http://laurakelly.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No Cookies | The Mercury]]></title>
+            <description><![CDATA[<article><h1>No Cookies | The Mercury</h1><p>There is a specific issue with the Facebook in-app browser intermittently making requests to websites without cookies that had previously been set. This appears to be a defect in the browser which should be addressed soon. The simplest approach to avoid this problem is to continue to use the Facebook app but not use the in-app browser.</p></article>]]></description>
+            <link>http://www.themercury.com.au/lifestyle/environment-tasmania-calls-on-wwf-to-cut-ties-with-salmon-farming-giant-tassal/news-story/87220c553bfe3107c3f2a5d76f7a288d</link>
+            <guid isPermaLink="false">6644440c-51de-4745-8116-6158d3b3a32b</guid>
+            <pubDate>Fri, 21 Apr 2017 01:33:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
