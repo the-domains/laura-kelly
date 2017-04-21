@@ -11,13 +11,13 @@ description: Include this LinkedIn profile on other websites
 app_links: []
 isBasedOnUrl: 'https://www.linkedin.com/in/laura-kelly-821729122/'
 title: Laura Kelly | LinkedIn
-datePublished: '2017-04-21T02:31:30.191Z'
-dateModified: '2017-04-21T02:30:48.273Z'
-datePublishedOriginal: '2017-04-21T02:31:30.191Z'
+datePublished: '2017-04-21T02:32:33.998Z'
+dateModified: '2017-04-21T02:32:33.876Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-04-21-laura-kelly-or-linkedin.md
+starred: false
+datePublishedOriginal: '2017-04-21T02:31:30.191Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
